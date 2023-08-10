@@ -1,7 +1,8 @@
 info:
-  version: 1.0.1
+  version: 1.0.0
   title: ms03 prod
   name: ms03-prod
+  description: An example product
 gateways:
   - datapower-api-gateway
 plans:
