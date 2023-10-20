@@ -2,7 +2,7 @@ info:
   version: 1.0.0
   title: ms03 prod
   name: ms03-prod
-  description: An example product for the IBM Hursley Summit 2023
+  description: An example product for the post IBM Hursley Summit 2023
 gateways:
   - datapower-api-gateway
 plans:
